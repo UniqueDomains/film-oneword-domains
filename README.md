@@ -78,12 +78,12 @@ print(df.head())
 | data.film       | premium   | $260      | $260          | 70             | 56     | 4      | namecheap        |
 | elite.film      | available | $89.99    | $113.99       | 90             | 43     | 5      | name.com         |
 | lord.film       | resell    | —         | —             | 84             | 28     | 4      | NameSilo, LLC    |
-| fast.film       | premium   | $250      | $250          | 82             | 53     | 4      | name.com         |
-| energy.film     | available | $97.98    | —             | 82             | 43     | 6      | namecheap        |
 | art.film        | premium   | $6,500    | $6,500        | 90             | 52     | 3      | namecheap        |
+| energy.film     | available | $97.98    | —             | 82             | 43     | 6      | namecheap        |
+| fast.film       | premium   | $250      | $250          | 82             | 52     | 4      | name.com         |
 | agile.film      | available | $89.99    | $113.99       | 92             | 41     | 5      | name.com         |
 | athletics.film  | premium   | $130      | $130          | 69             | 52     | 9      | namecheap        |
-| daily.film      | available | $89.99    | $113.99       | 74             | 40     | 5      | name.com         |
+| realestate.film | available | $97.98    | —             | —              | 40     | 11     | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
