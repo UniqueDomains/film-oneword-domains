@@ -1,10 +1,10 @@
-# Available .FILM One-Word Domains (11,732)
+# Available .FILM One-Word Domains (12,311)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C732%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C311%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .film one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,732 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,311 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,732 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,311 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/film`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| CocaCola.film    | available | $97.98    | —             | 92             | 82     | 9      | namecheap |
-| etc.film         | premium   | $250      | —             | 58             | 34     | 3      | name.com  |
-| nets.film        | available | $89.99    | —             | 54             | 81     | 4      | name.com  |
-| teams.film       | premium   | $125      | —             | 62             | 32     | 5      | name.com  |
-| regions.film     | available | $89.99    | —             | 64             | 59     | 7      | name.com  |
-| partners.film    | premium   | $125      | —             | 61             | 32     | 8      | name.com  |
-| coins.film       | available | $89.99    | —             | 56             | 41     | 5      | name.com  |
-| trends.film      | premium   | $125      | —             | 60             | 32     | 6      | name.com  |
-| shortcuts.film   | available | $89.99    | —             | 48             | 41     | 10     | name.com  |
-| dogs.film        | premium   | $125      | —             | 76             | 28     | 4      | name.com  |
-| WiFi.film        | available | $97.98    | —             | 83             | 37     | 5      | namecheap |
-| KFC.film         | premium   | $280      | $280          | 74             | 27     | 3      | namecheap |
-| William.film     | available | $97.98    | —             | 74             | 31     | 7      | namecheap |
-| shops.film       | premium   | $125      | —             | 64             | 24     | 5      | name.com  |
-| solutions.film   | available | $89.99    | —             | 56             | 31     | 9      | name.com  |
-| boats.film       | premium   | $125      | —             | 52             | 24     | 5      | name.com  |
-| inspiration.film | available | $89.99    | —             | 88             | 30     | 11     | name.com  |
-| teachers.film    | premium   | $125      | —             | 56             | 22     | 8      | name.com  |
-| spaces.film      | available | $89.99    | —             | 54             | 30     | 6      | name.com  |
-| wins.film        | premium   | $125      | —             | 68             | 21     | 4      | name.com  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| CocaCola.film  | available | $97.98    | —             | 92             | 82     | 9      | namecheap |
+| etc.film       | premium   | $250      | —             | 58             | 34     | 3      | name.com  |
+| nets.film      | available | $89.99    | —             | 54             | 81     | 4      | name.com  |
+| teams.film     | premium   | $125      | —             | 62             | 32     | 5      | name.com  |
+| regions.film   | available | $89.99    | —             | 64             | 59     | 7      | name.com  |
+| partners.film  | premium   | $125      | —             | 61             | 32     | 8      | name.com  |
+| coins.film     | available | $89.99    | —             | 56             | 41     | 5      | name.com  |
+| trends.film    | premium   | $125      | —             | 60             | 32     | 6      | name.com  |
+| shortcuts.film | available | $89.99    | —             | 48             | 41     | 10     | name.com  |
+| cams.film      | premium   | $625      | —             | 52             | 29     | 4      | name.com  |
+| WiFi.film      | available | $97.98    | —             | 83             | 37     | 5      | namecheap |
+| dogs.film      | premium   | $125      | —             | 76             | 28     | 4      | name.com  |
+| William.film   | available | $97.98    | —             | 74             | 31     | 7      | namecheap |
+| KFC.film       | premium   | $280      | $280          | 74             | 27     | 3      | namecheap |
+| solutions.film | available | $89.99    | —             | 56             | 31     | 9      | name.com  |
+| shops.film     | premium   | $125      | —             | 64             | 24     | 5      | name.com  |
+| spaces.film    | available | $89.99    | —             | 54             | 30     | 6      | name.com  |
+| toys.film      | premium   | $242      | $242          | 60             | 24     | 4      | namesilo  |
+| blocks.film    | available | $89.99    | —             | 53             | 29     | 6      | name.com  |
+| coupons.film   | premium   | $242      | $242          | 52             | 24     | 7      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,732 live domains                              |
+| 1,000-row public sample | 12,311 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
