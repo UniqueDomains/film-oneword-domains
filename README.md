@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .film one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,317 domains · **Median ask:** $114.80 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/film`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | finals.film    | available | $65.99    | $65.99        | 80             | 7      | 6      | namesilo  |
 | jewels.film    | available | $89.99    | —             | 80             | 15     | 6      | name.com  |
 | barup.film     | available | $89.99    | —             | 82             | 2      | 6      | name.com  |
-| getup.film     | available | $89.99    | —             | 82             | 14     | 6      | name.com  |
+| getup.film     | available | $89.99    | —             | 82             | 15     | 6      | name.com  |
 | QandA.film     | available | $97.98    | —             | 80             | 10     | 7      | namecheap |
 | dogsick.film   | available | $89.99    | —             | 90             | 1      | 7      | name.com  |
 | Netflix.film   | premium   | —         | —             | 92             | 58     | 7      | —         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
