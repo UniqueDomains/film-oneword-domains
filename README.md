@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .film one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,317 domains · **Median ask:** $114.80 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/film`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | Netflix.film   | premium   | —         | —             | 92             | 58     | 7      | —         |
 | leaveon.film   | available | $89.99    | —             | 80             | 1      | 8      | name.com  |
 | CocaCola.film  | available | $97.98    | —             | 92             | 82     | 9      | namecheap |
-| etc.film       | premium   | $250      | —             | 58             | 34     | 3      | name.com  |
-| nets.film      | available | $89.99    | —             | 54             | 81     | 4      | name.com  |
 | teams.film     | premium   | $125      | —             | 62             | 32     | 5      | name.com  |
-| regions.film   | available | $89.99    | —             | 64             | 59     | 7      | name.com  |
-| partners.film  | premium   | $125      | —             | 61             | 32     | 8      | name.com  |
-| coins.film     | available | $89.99    | —             | 56             | 41     | 5      | name.com  |
+| nets.film      | available | $89.99    | —             | 54             | 81     | 4      | name.com  |
 | trends.film    | premium   | $125      | —             | 60             | 32     | 6      | name.com  |
+| regions.film   | available | $89.99    | —             | 64             | 59     | 7      | name.com  |
+| etc.film       | premium   | $250      | —             | 58             | 32     | 3      | name.com  |
+| coins.film     | available | $89.99    | —             | 56             | 41     | 5      | name.com  |
+| partners.film  | premium   | $125      | —             | 61             | 31     | 8      | name.com  |
 | shortcuts.film | available | $89.99    | —             | 48             | 41     | 10     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
