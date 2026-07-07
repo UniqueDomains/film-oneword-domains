@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .film one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,317 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,317 domains · **Median ask:** $114.80 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,317 domains · **Median ask:** $120.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/film`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/film`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FILM one-word domain 
 
 ### Files
 
-- `film.csv` — public CSV extract (1,000 rows)
-- `film.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `film.csv`, public CSV extract (1,000 rows)
+- `film.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| NYC.film       | premium   | —         | —             | 82             | 38     | 3      | —         |
-| Trex.film      | available | $97.98    | —             | 80             | 24     | 5      | namecheap |
-| WiFi.film      | available | $97.98    | —             | 83             | 37     | 5      | namecheap |
-| finals.film    | available | $65.99    | $65.99        | 80             | 7      | 6      | namesilo  |
-| jewels.film    | available | $89.99    | —             | 80             | 15     | 6      | name.com  |
-| barup.film     | available | $89.99    | —             | 82             | 2      | 6      | name.com  |
-| getup.film     | available | $89.99    | —             | 82             | 15     | 6      | name.com  |
-| QandA.film     | available | $97.98    | —             | 80             | 10     | 7      | namecheap |
-| dogsick.film   | available | $89.99    | —             | 90             | 1      | 7      | name.com  |
-| Netflix.film   | premium   | —         | —             | 92             | 58     | 7      | —         |
-| leaveon.film   | available | $89.99    | —             | 80             | 1      | 8      | name.com  |
-| CocaCola.film  | available | $97.98    | —             | 92             | 82     | 9      | namecheap |
-| teams.film     | premium   | $125      | —             | 62             | 32     | 5      | name.com  |
-| nets.film      | available | $89.99    | —             | 54             | 81     | 4      | name.com  |
-| trends.film    | premium   | $125      | —             | 60             | 32     | 6      | name.com  |
-| regions.film   | available | $89.99    | —             | 64             | 59     | 7      | name.com  |
-| etc.film       | premium   | $250      | —             | 58             | 32     | 3      | name.com  |
-| coins.film     | available | $89.99    | —             | 56             | 41     | 5      | name.com  |
-| partners.film  | premium   | $125      | —             | 61             | 31     | 8      | name.com  |
-| shortcuts.film | available | $89.99    | —             | 48             | 41     | 10     | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| bass.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo         |
+| boss.film | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC |
+| ada.film  | premium   | $242      | $242          | medium         | medium | 3      | namesilo         |
+| belt.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| what.film | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| ago.film  | premium   | $250      | $250          | medium         | low    | 3      | name.com         |
+| bond.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| aim.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| born.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| Ava.film  | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| cons.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| bag.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| dice.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo         |
+| bob.film  | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| DJIA.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo         |
+| bud.film  | premium   | $625      | —             | high           | low    | 3      | name.com         |
+| duck.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo         |
+| but.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| duke.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| bye.film  | premium   | $625      | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .film domains. That gives the set a clear industry signal: each name is tied to a film-oriented extension rather than a general-use TLD. The range includes geographic terms such as NYC.film, generic words like tips.film and finals.film, and shorter brand-style strings such as Acup.film or barup.film. When comparing these domains, focus on whether the keyword becomes more credible or memorable with .film attached. The median ask is 114.80, which helps frame price discipline across the set. For buyers, the main question is fit: does the exact word strengthen a film identity, or does the extension feel forced?
+This list gathers 12,317 one-word .film domain names, pulled from the broader domain market and refreshed daily. The .film extension signals film, video, and entertainment projects, and many names in this set combine short verbs, nouns, and phrases — from single words like pictures.film to descriptive combinations like honeymooning.film. Median ask across this selection sits near $121, giving founders and investors alike a baseline for what one-word .film names typically cost. Because pricing and renewal terms vary by registrar and seller, comparing multiple listings side by side is the most reliable way to spot fair value or an emerging deal.
 
-- All domains in this selection use the .film extension
-- Median ask across the set is 114.80
-- Examples include NYC.film, tips.film, WiFi.film
-- Best picks pair naturally with film or media use
+- 12,317 one-word .film domain names tracked in this list
+- Median ask near $121 across this selection
+- Names span short verbs, nouns, and film-themed phrases
+- Updated daily to reflect current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
