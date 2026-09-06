@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .film one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,354 domains · **Median ask:** $98.27 · **High-demand under $2,500:** 69
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/film`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| christmas.film | premium   | $1,107    | $1,107        | high           | low    | 9      | namesilo         |
-| sorry.film     | available | $89.99    | $113.99       | high           | low    | 5      | name.com         |
-| pure.film      | premium   | $242      | $242          | high           | medium | 4      | namesilo         |
-| what.film      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| alto.film      | available | $65.99    | $65.99        | low            | low    | 4      | namesilo         |
-| boss.film      | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC |
-| ada.film       | premium   | $242      | $242          | medium         | medium | 3      | namesilo         |
-| arid.film      | available | $77.98    | $97.98        | low            | low    | 4      | namecheap        |
-| ago.film       | premium   | $250      | $250          | medium         | low    | 3      | name.com         |
-| bass.film      | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo         |
-| aim.film       | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| belt.film      | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
-| ape.film       | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
-| bond.film      | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
-| aug.film       | premium   | $242      | $242          | low            | low    | 3      | namesilo         |
-| born.film      | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
-| Ava.film       | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| cons.film      | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
-| azo.film       | premium   | $242      | $242          | low            | low    | 3      | namesilo         |
-| cxxx.film      | available | $65.99    | $65.99        | low            | low    | 4      | namesilo         |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| alto.film | available | $65.99    | $65.99        | low            | low    | 4      | namesilo         |
+| boss.film | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC |
+| ada.film  | premium   | $242      | $242          | medium         | medium | 3      | namesilo         |
+| arid.film | available | $77.98    | $97.98        | low            | low    | 4      | namecheap        |
+| what.film | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| ago.film  | premium   | $250      | $250          | medium         | low    | 3      | name.com         |
+| bass.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo         |
+| aim.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| belt.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| ape.film  | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
+| bond.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| aug.film  | premium   | $242      | $242          | low            | low    | 3      | namesilo         |
+| born.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| Ava.film  | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| cons.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| azo.film  | premium   | $242      | $242          | low            | low    | 3      | namesilo         |
+| cxxx.film | available | $65.99    | $65.99        | low            | low    | 4      | namesilo         |
+| bag.film  | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
+| dice.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo         |
+| bob.film  | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
