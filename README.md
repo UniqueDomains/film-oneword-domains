@@ -1,10 +1,10 @@
-# Available .FILM One-Word Domains (31,929)
+# Available .FILM One-Word Domains (32,905)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C929%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C905%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .film one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,929 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,905 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,929 domains · **Median ask:** $88.92 · **High-demand under $2,500:** 61
+**Public extract:** 1,000 rows · **Live catalog:** 32,905 domains · **Median ask:** $88.65 · **High-demand under $2,500:** 59
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/film`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| alto.film | available | $65.99    | $65.99        | low            | low    | 4      | namesilo    |
-| what.film | resell    | —         | —             | high           | low    | 4      | Dynadot Inc |
-| ada.film  | premium   | $242      | $242          | medium         | medium | 3      | namesilo    |
-| arid.film | available | $77.98    | $97.98        | low            | low    | 4      | namecheap   |
-| ago.film  | premium   | $242      | $242          | low            | low    | 3      | namesilo    |
-| bass.film | available | $89.99    | $113.99       | low            | low    | 4      | name.com    |
-| aim.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo    |
-| belt.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo    |
-| ape.film  | premium   | $242      | $242          | medium         | low    | 3      | namesilo    |
-| bond.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo    |
-| aug.film  | premium   | $242      | $242          | low            | low    | 3      | namesilo    |
-| born.film | available | $77.98    | $97.98        | medium         | low    | 4      | namecheap   |
-| ava.film  | premium   | $242      | $242          | high           | medium | 3      | namesilo    |
-| cons.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo    |
-| azo.film  | premium   | $242      | $242          | low            | low    | 3      | namesilo    |
-| cxxx.film | available | $65.99    | $65.99        | low            | low    | 4      | namesilo    |
-| bag.film  | premium   | $242      | $242          | medium         | low    | 3      | namesilo    |
-| dice.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo    |
-| bob.film  | premium   | $260      | $260          | medium         | low    | 3      | namecheap   |
-| djia.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo    |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ahuh.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo  |
+| ada.film  | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
+| alto.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo  |
+| aid.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| amok.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo  |
+| aim.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| arid.film | available | $77.98    | $97.98        | high           | low    | 4      | namecheap |
+| ala.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| arse.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo  |
+| ane.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| atop.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo  |
+| ape.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| awny.film | available | $65.99    | $65.99        | medium         | low    | 4      | namesilo  |
+| ask.film  | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
+| barn.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo  |
+| aug.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| belt.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo  |
+| ava.film  | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
+| bond.film | available | $65.99    | $65.99        | high           | low    | 4      | namesilo  |
+| axe.film  | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,929 live domains                        |
+| 1,000-row public sample | 32,905 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 61 high-demand names under $2,500          |
+| Basic exported fields   | 59 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FILM One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
